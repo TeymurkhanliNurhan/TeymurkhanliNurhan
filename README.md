@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Teymurkhanli Nurhan
-- 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning Software and Database developing
+- 👀 I’m 3rd year Computer Science at Polish-Japanese Academy of Information Technology in Warsaw
+- 🌱 My specialization is Software and Database Development
 - 📫 How to reach me nurhan.teymurkhanli@gmail.com
 
 
